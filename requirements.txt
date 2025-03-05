@@ -1,0 +1,7 @@
+lightgbm
+pandas
+numpy
+requests
+scikit-learn
+bs4
+joblib
